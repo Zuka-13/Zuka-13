@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zuka-13
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Flutter
 - 📫 How to reach me by Email: omarzukanovic0@gmail.com
 
 <!---
